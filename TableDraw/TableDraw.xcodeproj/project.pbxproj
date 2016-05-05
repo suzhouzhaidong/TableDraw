@@ -135,13 +135,13 @@
 		354B441F1CA0EDCF002C40A9 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		354B44211CA0F01D002C40A9 /* DataCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataCenter.h; sourceTree = "<group>"; };
 		354B44221CA0F01D002C40A9 /* DataCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataCenter.m; sourceTree = "<group>"; };
-		354B44241CA11379002C40A9 /* NSObject+SqliteObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SqliteObject.h"; sourceTree = "<group>"; };
 		354B44251CA11379002C40A9 /* NSObject+SqliteObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SqliteObject.m"; sourceTree = "<group>"; };
 		354C2F241C76C9BD00781C36 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		35512E3D1C9FEFFB006F899C /* account@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "account@2x.png"; sourceTree = "<group>"; };
 		35512E3E1C9FEFFB006F899C /* pwd@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pwd@2x.png"; sourceTree = "<group>"; };
 		35512E411C9FF246006F899C /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		35512E421C9FF246006F899C /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		35C638B21CDAE30100A843D6 /* NSObject+SqliteObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+SqliteObject.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,7 +172,7 @@
 				354B43CA1CA0DD8C002C40A9 /* SqliteServie.m */,
 				354B44211CA0F01D002C40A9 /* DataCenter.h */,
 				354B44221CA0F01D002C40A9 /* DataCenter.m */,
-				354B44241CA11379002C40A9 /* NSObject+SqliteObject.h */,
+				35C638B21CDAE30100A843D6 /* NSObject+SqliteObject.h */,
 				354B44251CA11379002C40A9 /* NSObject+SqliteObject.m */,
 			);
 			name = Uitl;
